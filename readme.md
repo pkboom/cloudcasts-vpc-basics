@@ -31,9 +31,9 @@ ssh -i ~/.ssh/<private-key>.pem ubuntu@<ec2-public-instance-ip>
 
 # Error
 
-> @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+> @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 > @ WARNING: UNPROTECTED PRIVATE KEY FILE! @
-> @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+> @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 > Permissions 0640 for '/home/y/.ssh/<instance-key>.pem' are too open.
 > It is required that your private key files are NOT accessible by others.
 > This private key will be ignored.
